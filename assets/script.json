@@ -1,0 +1,58 @@
+[
+  {
+    "speaker": "SPEAKER_00",
+    "voice": "Microsoft David Desktop",
+    "rate": -1,
+    "gain": 0.7,
+    "text": "Welcome to Market Signals. Today we are discussing interest rates, startup valuation, and renewable energy. I want to begin with a calm explanation of why central banks care about inflation."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "voice": "Microsoft Zira Desktop",
+    "rate": 3,
+    "gain": 1.8,
+    "text": "I completely disagree about interest rates! Raising borrowing costs again would punish small businesses. That is a terrible decision! Inflation is already falling, and this argument ignores ordinary families paying their mortgages."
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "voice": "Microsoft David Desktop",
+    "rate": -2,
+    "gain": 0.35,
+    "text": "Let us slow down and examine the evidence. Lower interest rates can encourage investment, but cutting too quickly may increase inflation. My position is to keep monetary policy steady while we review the employment data."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "voice": "Microsoft Zira Desktop",
+    "rate": 2,
+    "gain": 1.1,
+    "text": "Ha ha ha! Their startup valuation is absolutely hilarious. They have three customers and a coffee machine, yet they want a billion dollars. I cannot stop laughing about that valuation! A spreadsheet does not create a business."
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "voice": "Microsoft David Desktop",
+    "rate": 0,
+    "gain": 0.6,
+    "text": "A serious valuation starts with cash flow, revenue growth, and customer retention. Investors should compare the company with similar businesses. The discount rate matters because future earnings are worth less than cash received today."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "voice": "Microsoft Zira Desktop",
+    "rate": 1,
+    "gain": 0.9,
+    "text": "Now for some exciting news about renewable energy. Improved battery storage can hold solar power after sunset. Wind farms and a stronger electricity grid could reduce costs while making the energy supply more reliable."
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "voice": "Microsoft David Desktop",
+    "rate": -1,
+    "gain": 0.45,
+    "text": "There is also a quiet concern about privacy. Voice recordings can reveal personal information. A responsible audio search system should preserve the source timestamps, explain its confidence, and avoid claiming that a guess is a verified fact."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "voice": "Microsoft Zira Desktop",
+    "rate": 0,
+    "gain": 0.8,
+    "text": "That is a useful place to finish. We disagreed about interest rates, laughed about valuation, and found common ground on clean energy. Thanks for listening to Market Signals. This conversation was created specifically for the Audio Sleuth demonstration."
+  }
+]

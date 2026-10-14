@@ -1,0 +1,6 @@
+gradio>=5.49,<6
+numpy>=1.26,<3
+scipy>=1.11,<2
+soundfile>=0.13,<1
+scikit-learn>=1.5,<2
+httpx>=0.28,<1

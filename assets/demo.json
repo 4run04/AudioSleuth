@@ -1,0 +1,1988 @@
+{
+  "source_sha256": "bf94c59f951de7b907e90f8028ab3028a76f5073c3002c988392cc55787060f1",
+  "license_note": "Original AudioSleuth script; locally generated synthetic voices.",
+  "word_timing": "TTS start events with next-event word-end estimates.",
+  "words": [
+    {
+      "text": "Welcome",
+      "start": 0.36,
+      "end": 0.825,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "to",
+      "start": 0.825,
+      "end": 0.96,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "Market",
+      "start": 0.96,
+      "end": 1.3699999999999999,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "Signals.",
+      "start": 1.3699999999999999,
+      "end": 2.9899999999999998,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "Today",
+      "start": 2.9899999999999998,
+      "end": 3.3449999999999998,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "we",
+      "start": 3.3449999999999998,
+      "end": 3.505,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "are",
+      "start": 3.505,
+      "end": 3.6599999999999997,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "discussing",
+      "start": 3.6599999999999997,
+      "end": 4.29,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "interest",
+      "start": 4.29,
+      "end": 4.79,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "rates,",
+      "start": 4.79,
+      "end": 5.35,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "startup",
+      "start": 5.35,
+      "end": 5.925,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "valuation,",
+      "start": 5.925,
+      "end": 6.915,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "and",
+      "start": 6.915,
+      "end": 7.109999999999999,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "renewable",
+      "start": 7.109999999999999,
+      "end": 7.62,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "energy.",
+      "start": 7.62,
+      "end": 9.11,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "I",
+      "start": 9.11,
+      "end": 9.24,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "want",
+      "start": 9.24,
+      "end": 9.51,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "to",
+      "start": 9.51,
+      "end": 9.62,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "begin",
+      "start": 9.62,
+      "end": 9.985,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "with",
+      "start": 9.985,
+      "end": 10.18,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "a",
+      "start": 10.18,
+      "end": 10.25,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "calm",
+      "start": 10.25,
+      "end": 10.565,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "explanation",
+      "start": 10.565,
+      "end": 11.375,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "of",
+      "start": 11.375,
+      "end": 11.525,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "why",
+      "start": 11.525,
+      "end": 11.78,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "central",
+      "start": 11.78,
+      "end": 12.274999999999999,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "banks",
+      "start": 12.274999999999999,
+      "end": 12.635,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "care",
+      "start": 12.635,
+      "end": 12.93,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "about",
+      "start": 12.93,
+      "end": 13.26,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "inflation.",
+      "start": 13.26,
+      "end": 14.825,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "I",
+      "start": 15.545,
+      "end": 15.615,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "completely",
+      "start": 15.615,
+      "end": 16.015,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "disagree",
+      "start": 16.015,
+      "end": 16.345,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "about",
+      "start": 16.345,
+      "end": 16.575,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "interest",
+      "start": 16.575,
+      "end": 16.9,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "rates!",
+      "start": 16.9,
+      "end": 17.825,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "Raising",
+      "start": 17.825,
+      "end": 18.095,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "borrowing",
+      "start": 18.095,
+      "end": 18.38,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "costs",
+      "start": 18.38,
+      "end": 18.695,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "again",
+      "start": 18.695,
+      "end": 18.88,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "would",
+      "start": 18.88,
+      "end": 18.99,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "punish",
+      "start": 18.99,
+      "end": 19.24,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "small",
+      "start": 19.24,
+      "end": 19.505,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "businesses.",
+      "start": 19.505,
+      "end": 20.615,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "That",
+      "start": 20.615,
+      "end": 20.74,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "is",
+      "start": 20.74,
+      "end": 20.825,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "a",
+      "start": 20.825,
+      "end": 20.86,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "terrible",
+      "start": 20.86,
+      "end": 21.15,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "decision!",
+      "start": 21.15,
+      "end": 22.13,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "Inflation",
+      "start": 22.13,
+      "end": 22.549999999999997,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "is",
+      "start": 22.549999999999997,
+      "end": 22.669999999999998,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "already",
+      "start": 22.669999999999998,
+      "end": 22.965,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "falling,",
+      "start": 22.965,
+      "end": 23.59,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "and",
+      "start": 23.59,
+      "end": 23.66,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "this",
+      "start": 23.66,
+      "end": 23.799999999999997,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "argument",
+      "start": 23.799999999999997,
+      "end": 24.13,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "ignores",
+      "start": 24.13,
+      "end": 24.435,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "ordinary",
+      "start": 24.435,
+      "end": 24.74,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "families",
+      "start": 24.74,
+      "end": 25.085,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "paying",
+      "start": 25.085,
+      "end": 25.31,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "their",
+      "start": 25.31,
+      "end": 25.409999999999997,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "mortgages.",
+      "start": 25.409999999999997,
+      "end": 26.42,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "Let",
+      "start": 27.19,
+      "end": 27.44,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "us",
+      "start": 27.44,
+      "end": 27.64,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "slow",
+      "start": 27.64,
+      "end": 28.0,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "down",
+      "start": 28.0,
+      "end": 28.335,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "and",
+      "start": 28.335,
+      "end": 28.54,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "examine",
+      "start": 28.54,
+      "end": 29.125,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "the",
+      "start": 29.125,
+      "end": 29.27,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "evidence.",
+      "start": 29.27,
+      "end": 31.015,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "Lower",
+      "start": 31.015,
+      "end": 31.41,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "interest",
+      "start": 31.41,
+      "end": 31.965,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "rates",
+      "start": 31.965,
+      "end": 32.295,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "can",
+      "start": 32.295,
+      "end": 32.585,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "encourage",
+      "start": 32.585,
+      "end": 33.15,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "investment,",
+      "start": 33.15,
+      "end": 34.455,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "but",
+      "start": 34.455,
+      "end": 34.685,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "cutting",
+      "start": 34.685,
+      "end": 35.09,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "too",
+      "start": 35.09,
+      "end": 35.325,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "quickly",
+      "start": 35.325,
+      "end": 35.83,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "may",
+      "start": 35.83,
+      "end": 36.115,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "increase",
+      "start": 36.115,
+      "end": 36.685,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "inflation.",
+      "start": 36.685,
+      "end": 38.55,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "My",
+      "start": 38.55,
+      "end": 38.74,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "position",
+      "start": 38.74,
+      "end": 39.34,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "is",
+      "start": 39.34,
+      "end": 39.565,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "to",
+      "start": 39.565,
+      "end": 39.695,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "keep",
+      "start": 39.695,
+      "end": 39.995,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "monetary",
+      "start": 39.995,
+      "end": 40.695,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "policy",
+      "start": 40.695,
+      "end": 41.32,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "steady",
+      "start": 41.32,
+      "end": 41.769999999999996,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "while",
+      "start": 41.769999999999996,
+      "end": 42.08,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "we",
+      "start": 42.08,
+      "end": 42.254999999999995,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "review",
+      "start": 42.254999999999995,
+      "end": 42.66,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "the",
+      "start": 42.66,
+      "end": 42.805,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "employment",
+      "start": 42.805,
+      "end": 43.46,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "data.",
+      "start": 43.46,
+      "end": 44.865,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "Ha",
+      "start": 45.595,
+      "end": 45.705,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "ha",
+      "start": 45.705,
+      "end": 45.835,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "ha!",
+      "start": 45.835,
+      "end": 46.755,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "Their",
+      "start": 46.755,
+      "end": 46.88,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "startup",
+      "start": 46.88,
+      "end": 47.335,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "valuation",
+      "start": 47.335,
+      "end": 47.885,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "is",
+      "start": 47.885,
+      "end": 48.005,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "absolutely",
+      "start": 48.005,
+      "end": 48.505,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "hilarious.",
+      "start": 48.505,
+      "end": 49.78,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "They",
+      "start": 49.78,
+      "end": 49.87,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "have",
+      "start": 49.87,
+      "end": 50.04,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "three",
+      "start": 50.04,
+      "end": 50.230000000000004,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "customers",
+      "start": 50.230000000000004,
+      "end": 50.695,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "and",
+      "start": 50.695,
+      "end": 50.785,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "a",
+      "start": 50.785,
+      "end": 50.84,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "coffee",
+      "start": 50.84,
+      "end": 51.17,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "machine,",
+      "start": 51.17,
+      "end": 51.925,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "yet",
+      "start": 51.925,
+      "end": 52.095,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "they",
+      "start": 52.095,
+      "end": 52.2,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "want",
+      "start": 52.2,
+      "end": 52.42,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "a",
+      "start": 52.42,
+      "end": 52.46,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "billion",
+      "start": 52.46,
+      "end": 52.74,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "dollars.",
+      "start": 52.74,
+      "end": 53.83,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "I",
+      "start": 53.83,
+      "end": 53.91,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "cannot",
+      "start": 53.91,
+      "end": 54.205,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "stop",
+      "start": 54.205,
+      "end": 54.475,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "laughing",
+      "start": 54.475,
+      "end": 54.78,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "about",
+      "start": 54.78,
+      "end": 54.99,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "that",
+      "start": 54.99,
+      "end": 55.17,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "valuation!",
+      "start": 55.17,
+      "end": 56.47,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "A",
+      "start": 56.47,
+      "end": 56.57,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "spreadsheet",
+      "start": 56.57,
+      "end": 57.06,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "does",
+      "start": 57.06,
+      "end": 57.245,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "not",
+      "start": 57.245,
+      "end": 57.44,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "create",
+      "start": 57.44,
+      "end": 57.745,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "a",
+      "start": 57.745,
+      "end": 57.785,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "business.",
+      "start": 57.785,
+      "end": 58.85,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "A",
+      "start": 59.6,
+      "end": 59.69,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "serious",
+      "start": 59.69,
+      "end": 60.185,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "valuation",
+      "start": 60.185,
+      "end": 60.875,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "starts",
+      "start": 60.875,
+      "end": 61.28,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "with",
+      "start": 61.28,
+      "end": 61.46,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "cash",
+      "start": 61.46,
+      "end": 61.8,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "flow,",
+      "start": 61.8,
+      "end": 62.285,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "revenue",
+      "start": 62.285,
+      "end": 62.725,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "growth,",
+      "start": 62.725,
+      "end": 63.305,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "and",
+      "start": 63.305,
+      "end": 63.48,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "customer",
+      "start": 63.48,
+      "end": 64.01,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "retention.",
+      "start": 64.01,
+      "end": 65.51,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "Investors",
+      "start": 65.51,
+      "end": 66.1,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "should",
+      "start": 66.1,
+      "end": 66.31,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "compare",
+      "start": 66.31,
+      "end": 66.715,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "the",
+      "start": 66.715,
+      "end": 66.815,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "company",
+      "start": 66.815,
+      "end": 67.26,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "with",
+      "start": 67.26,
+      "end": 67.435,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "similar",
+      "start": 67.435,
+      "end": 67.875,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "businesses.",
+      "start": 67.875,
+      "end": 69.435,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "The",
+      "start": 69.435,
+      "end": 69.55,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "discount",
+      "start": 69.55,
+      "end": 70.075,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "rate",
+      "start": 70.075,
+      "end": 70.295,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "matters",
+      "start": 70.295,
+      "end": 70.695,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "because",
+      "start": 70.695,
+      "end": 71.07,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "future",
+      "start": 71.07,
+      "end": 71.485,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "earnings",
+      "start": 71.485,
+      "end": 71.9,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "are",
+      "start": 71.9,
+      "end": 72.105,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "worth",
+      "start": 72.105,
+      "end": 72.395,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "less",
+      "start": 72.395,
+      "end": 72.67,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "than",
+      "start": 72.67,
+      "end": 72.85,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "cash",
+      "start": 72.85,
+      "end": 73.175,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "received",
+      "start": 73.175,
+      "end": 73.595,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "today.",
+      "start": 73.595,
+      "end": 74.7,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "Now",
+      "start": 75.43499999999999,
+      "end": 75.66499999999999,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "for",
+      "start": 75.66499999999999,
+      "end": 75.80999999999999,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "some",
+      "start": 75.80999999999999,
+      "end": 76.03,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "exciting",
+      "start": 76.03,
+      "end": 76.43499999999999,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "news",
+      "start": 76.43499999999999,
+      "end": 76.66499999999999,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "about",
+      "start": 76.66499999999999,
+      "end": 76.91,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "renewable",
+      "start": 76.91,
+      "end": 77.365,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "energy.",
+      "start": 77.365,
+      "end": 78.57,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "Improved",
+      "start": 78.57,
+      "end": 78.99499999999999,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "battery",
+      "start": 78.99499999999999,
+      "end": 79.335,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "storage",
+      "start": 79.335,
+      "end": 79.74499999999999,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "can",
+      "start": 79.74499999999999,
+      "end": 79.905,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "hold",
+      "start": 79.905,
+      "end": 80.175,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "solar",
+      "start": 80.175,
+      "end": 80.47999999999999,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "power",
+      "start": 80.47999999999999,
+      "end": 80.82499999999999,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "after",
+      "start": 80.82499999999999,
+      "end": 81.05999999999999,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "sunset.",
+      "start": 81.05999999999999,
+      "end": 82.33999999999999,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "Wind",
+      "start": 82.33999999999999,
+      "end": 82.535,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "farms",
+      "start": 82.535,
+      "end": 82.89999999999999,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "and",
+      "start": 82.89999999999999,
+      "end": 83.0,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "a",
+      "start": 83.0,
+      "end": 83.03999999999999,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "stronger",
+      "start": 83.03999999999999,
+      "end": 83.46499999999999,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "electricity",
+      "start": 83.46499999999999,
+      "end": 84.095,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "grid",
+      "start": 84.095,
+      "end": 84.32,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "could",
+      "start": 84.32,
+      "end": 84.485,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "reduce",
+      "start": 84.485,
+      "end": 84.80499999999999,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "costs",
+      "start": 84.80499999999999,
+      "end": 85.21499999999999,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "while",
+      "start": 85.21499999999999,
+      "end": 85.445,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "making",
+      "start": 85.445,
+      "end": 85.77,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "the",
+      "start": 85.77,
+      "end": 85.905,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "energy",
+      "start": 85.905,
+      "end": 86.285,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "supply",
+      "start": 86.285,
+      "end": 86.67999999999999,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "more",
+      "start": 86.67999999999999,
+      "end": 86.89999999999999,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "reliable.",
+      "start": 86.89999999999999,
+      "end": 88.065,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "There",
+      "start": 88.825,
+      "end": 89.035,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "is",
+      "start": 89.035,
+      "end": 89.19500000000001,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "also",
+      "start": 89.19500000000001,
+      "end": 89.64,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "a",
+      "start": 89.64,
+      "end": 89.715,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "quiet",
+      "start": 89.715,
+      "end": 90.14,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "concern",
+      "start": 90.14,
+      "end": 90.655,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "about",
+      "start": 90.655,
+      "end": 90.97500000000001,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "privacy.",
+      "start": 90.97500000000001,
+      "end": 92.63000000000001,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "Voice",
+      "start": 92.63000000000001,
+      "end": 92.98,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "recordings",
+      "start": 92.98,
+      "end": 93.61500000000001,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "can",
+      "start": 93.61500000000001,
+      "end": 93.89,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "reveal",
+      "start": 93.89,
+      "end": 94.245,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "personal",
+      "start": 94.245,
+      "end": 94.815,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "information.",
+      "start": 94.815,
+      "end": 96.605,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "A",
+      "start": 96.605,
+      "end": 96.71000000000001,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "responsible",
+      "start": 96.71000000000001,
+      "end": 97.47,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "audio",
+      "start": 97.47,
+      "end": 97.855,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "search",
+      "start": 97.855,
+      "end": 98.25,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "system",
+      "start": 98.25,
+      "end": 98.7,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "should",
+      "start": 98.7,
+      "end": 98.94,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "preserve",
+      "start": 98.94,
+      "end": 99.38,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "the",
+      "start": 99.38,
+      "end": 99.48,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "source",
+      "start": 99.48,
+      "end": 99.86500000000001,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "timestamps,",
+      "start": 99.86500000000001,
+      "end": 101.255,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "explain",
+      "start": 101.255,
+      "end": 101.81,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "its",
+      "start": 101.81,
+      "end": 101.96000000000001,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "confidence,",
+      "start": 101.96000000000001,
+      "end": 103.135,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "and",
+      "start": 103.135,
+      "end": 103.31,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "avoid",
+      "start": 103.31,
+      "end": 103.69500000000001,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "claiming",
+      "start": 103.69500000000001,
+      "end": 104.165,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "that",
+      "start": 104.165,
+      "end": 104.35000000000001,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "a",
+      "start": 104.35000000000001,
+      "end": 104.425,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "guess",
+      "start": 104.425,
+      "end": 104.755,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "is",
+      "start": 104.755,
+      "end": 104.92,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "a",
+      "start": 104.92,
+      "end": 104.985,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "verified",
+      "start": 104.985,
+      "end": 105.605,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "fact.",
+      "start": 105.605,
+      "end": 106.97,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "That",
+      "start": 107.72,
+      "end": 107.9,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "is",
+      "start": 107.9,
+      "end": 108.025,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "a",
+      "start": 108.025,
+      "end": 108.10000000000001,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "useful",
+      "start": 108.10000000000001,
+      "end": 108.53,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "place",
+      "start": 108.53,
+      "end": 108.91000000000001,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "to",
+      "start": 108.91000000000001,
+      "end": 109.02000000000001,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "finish.",
+      "start": 109.02000000000001,
+      "end": 110.39500000000001,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "We",
+      "start": 110.39500000000001,
+      "end": 110.525,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "disagreed",
+      "start": 110.525,
+      "end": 111.06,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "about",
+      "start": 111.06,
+      "end": 111.375,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "interest",
+      "start": 111.375,
+      "end": 111.85000000000001,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "rates,",
+      "start": 111.85000000000001,
+      "end": 112.66000000000001,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "laughed",
+      "start": 112.66000000000001,
+      "end": 112.97500000000001,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "about",
+      "start": 112.97500000000001,
+      "end": 113.275,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "valuation,",
+      "start": 113.275,
+      "end": 114.465,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "and",
+      "start": 114.465,
+      "end": 114.595,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "found",
+      "start": 114.595,
+      "end": 114.935,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "common",
+      "start": 114.935,
+      "end": 115.325,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "ground",
+      "start": 115.325,
+      "end": 115.7,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "on",
+      "start": 115.7,
+      "end": 115.875,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "clean",
+      "start": 115.875,
+      "end": 116.2,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "energy.",
+      "start": 116.2,
+      "end": 117.56,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "Thanks",
+      "start": 117.56,
+      "end": 117.89500000000001,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "for",
+      "start": 117.89500000000001,
+      "end": 118.04,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "listening",
+      "start": 118.04,
+      "end": 118.48,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "to",
+      "start": 118.48,
+      "end": 118.58,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "Market",
+      "start": 118.58,
+      "end": 118.965,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "Signals.",
+      "start": 118.965,
+      "end": 120.41,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "This",
+      "start": 120.41,
+      "end": 120.60000000000001,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "conversation",
+      "start": 120.60000000000001,
+      "end": 121.39,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "was",
+      "start": 121.39,
+      "end": 121.57000000000001,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "created",
+      "start": 121.57000000000001,
+      "end": 122.01,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "specifically",
+      "start": 122.01,
+      "end": 122.685,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "for",
+      "start": 122.685,
+      "end": 122.845,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "the",
+      "start": 122.845,
+      "end": 122.98,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "Audio",
+      "start": 122.98,
+      "end": 123.375,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "Sleuth",
+      "start": 123.375,
+      "end": 123.765,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    },
+    {
+      "text": "demonstration.",
+      "start": 123.765,
+      "end": 125.405,
+      "confidence": 1.0,
+      "timing": "synthetic"
+    }
+  ],
+  "intervals": [
+    {
+      "start": 0.25,
+      "end": 14.825,
+      "speaker_id": "SPEAKER_00"
+    },
+    {
+      "start": 15.475,
+      "end": 26.42,
+      "speaker_id": "SPEAKER_01"
+    },
+    {
+      "start": 27.07,
+      "end": 44.865,
+      "speaker_id": "SPEAKER_00"
+    },
+    {
+      "start": 45.515,
+      "end": 58.85,
+      "speaker_id": "SPEAKER_01"
+    },
+    {
+      "start": 59.5,
+      "end": 74.7,
+      "speaker_id": "SPEAKER_00"
+    },
+    {
+      "start": 75.35,
+      "end": 88.065,
+      "speaker_id": "SPEAKER_01"
+    },
+    {
+      "start": 88.715,
+      "end": 106.97,
+      "speaker_id": "SPEAKER_00"
+    },
+    {
+      "start": 107.62,
+      "end": 125.405,
+      "speaker_id": "SPEAKER_01"
+    }
+  ]
+}
